@@ -11,6 +11,7 @@
 		9B1A92CA222DA54F00F5A1F7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B1A92C9222DA54F00F5A1F7 /* ViewController.swift */; };
 		9B1A92CC222DA55000F5A1F7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9B1A92CB222DA55000F5A1F7 /* Assets.xcassets */; };
 		9B1A92CF222DA55000F5A1F7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B1A92CD222DA55000F5A1F7 /* Main.storyboard */; };
+		9B1A92D8222DA65000F5A1F7 /* Pin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B1A92D7222DA65000F5A1F7 /* Pin.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		9B1A92CE222DA55000F5A1F7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9B1A92D0222DA55000F5A1F7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9B1A92D1222DA55000F5A1F7 /* CapitalCities.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = CapitalCities.entitlements; sourceTree = "<group>"; };
+		9B1A92D7222DA65000F5A1F7 /* Pin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pin.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				9B1A92CD222DA55000F5A1F7 /* Main.storyboard */,
 				9B1A92D0222DA55000F5A1F7 /* Info.plist */,
 				9B1A92D1222DA55000F5A1F7 /* CapitalCities.entitlements */,
+				9B1A92D7222DA65000F5A1F7 /* Pin.swift */,
 			);
 			path = CapitalCities;
 			sourceTree = "<group>";
@@ -133,6 +136,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9B1A92D8222DA65000F5A1F7 /* Pin.swift in Sources */,
 				9B1A92CA222DA54F00F5A1F7 /* ViewController.swift in Sources */,
 				9B1A92C8222DA54F00F5A1F7 /* AppDelegate.swift in Sources */,
 			);
